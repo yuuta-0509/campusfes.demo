@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    background-color: gray;
+    height: 10vh;
+}
+.logo_div{
+    background-color: black;
+    margin-left: 10vw;
+}
+.menu_div{
+    margin-left: 40vw;
+}
+.logo_img{
+    color: white;
+}
